@@ -33,7 +33,7 @@ const Home = ({ pageInfo, experiences, skills, projects, socials }: Props) => {
       scrollbar scrollbar-track-gray-400/20 scrollbar-thumb-[#800020]/60"
     >
       <Head>
-        <title>Ali's Modern Portfolio</title>
+        <title>{pageInfo?.name} - Modern Portfolio</title>
       </Head>
 
       {/* Header */}

@@ -14,5 +14,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 This project uses a sanity server, to view please click:
 https://www.sanity.io/manage/personal/project/lpmyz5a1/members
-
-in order to start the server run these commands on SEPERATE terminals
