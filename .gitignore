@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+
+sanity/nodue_modules
 # next.js
 /.next/
 /out/
